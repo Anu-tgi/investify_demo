@@ -1,0 +1,5 @@
+# Node modules
+frontend/node_modules/
+
+# Environment variables
+frontend/.env
